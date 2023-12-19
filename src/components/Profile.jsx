@@ -177,7 +177,7 @@ export const Profile = () => {
                 <Container style={{ marginBottom: '30px' }}>
                     <InputLabel style={{ fontSize: '14px', marginBottom: '8px' }}>ABOUT ME</InputLabel>
                     <TextField
-                        variant="outlined"
+                        variant="outlined" 
                         fullWidth
                         type="long text"
                         required
